@@ -1,6 +1,8 @@
 # simple-fastapi
 
-![python](logo.png)
+<p align="center">
+  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+</p>
 
 Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/mrrezoo/)
 
