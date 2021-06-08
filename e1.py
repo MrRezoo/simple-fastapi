@@ -6,5 +6,8 @@ app = FastAPI()
 
 
 @app.get('/')
-def root(name: str, age: Optional[int] = None):
+def root(name: str, age: Optional[int] = None) -> Pers:
     return {'Hello': name, 'Age': age}
+
+
+
